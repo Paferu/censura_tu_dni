@@ -1,0 +1,2 @@
+Pillow>=10.1
+pillow-heif>=0.13  # opcional: solo para abrir fotos HEIC del iPhone
