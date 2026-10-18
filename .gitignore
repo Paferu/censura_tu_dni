@@ -1,0 +1,25 @@
+# Nunca subir documentos: imágenes y PDFs fuera del repo
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+*.webp
+*.tif
+*.tiff
+*.bmp
+*.gif
+*.pdf
+*.PDF
+
+# Entornos virtuales y cachés de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
